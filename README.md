@@ -151,6 +151,9 @@ Convolutional Neural Networks (CNNs) are a class of deep neural networks commonl
 - Frameworks: TensorFlow, PyTorch, Keras provide extensive resources and tutorials for CNN implementation.
 
 #### Example Code (Python - TensorFlow/Keras)
+![zXmbOaTpbY6mA](https://github.com/AmanMehta199816/Aman-Mehta-Deep-Learning-/assets/96304523/f9acad3c-1c78-424d-a726-385101f67303)
+
+
 ```python
 import tensorflow as tf
 from tensorflow.keras import layers, models
