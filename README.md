@@ -217,6 +217,7 @@ Recurrent Neural Networks (RNNs) are a class of neural networks designed to hand
 - Books: "Deep Learning" by Ian Goodfellow, Yoshua Bengio, and Aaron Courville.
 - Courses: Coursera's "Sequence Models" course by Andrew Ng covers RNNs and LSTMs.
 - Frameworks: TensorFlow, PyTorch, and Keras provide comprehensive support for implementing RNNs and LSTMs.
+![L8K62iTDkzGX6](https://github.com/AmanMehta199816/Aman-Mehta-Deep-Learning-/assets/96304523/7d19119b-84fe-456e-b69a-afb5b27e6482)
 
 #### Example Code (Python - TensorFlow/Keras)
 ```python
