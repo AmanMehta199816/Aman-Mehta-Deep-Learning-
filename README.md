@@ -1,6 +1,6 @@
 # Aman-Mehta-Deep-Learning-
 Aman Mehta Deep Learning Repository for Beginner Deep Learning Developers
-# Deep Learning Resources Repository
+# [Deep Learning Resources Repository](https://github.com/AmanMehta199816/Aman-Mehta-Deep-Learning-/blob/main/README.md)
 ![QDaPv3yaM2oT8QsMJR](https://github.com/AmanMehta199816/Aman-Mehta-Deep-Learning-/assets/96304523/aee7d872-5591-4c91-ad0e-48b73fb88689)
 
 Welcome to the Deep Learning Resources repository! Whether you're a beginner looking to understand the basics of deep learning or an experienced practitioner seeking advanced techniques and research papers, this repository is designed to provide you with a comprehensive collection of resources to enhance your knowledge and skills in the field of deep learning.
