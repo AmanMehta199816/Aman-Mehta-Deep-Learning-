@@ -72,6 +72,7 @@ Feel free to contribute to this repository by adding more resources, tutorials, 
 
 **Disclaimer:** The information provided in this repository is for educational purposes only. Always verify information and use best practices when applying deep learning techniques.
 ## Deep Learning 3-Month Roadmap by Aman Mehta 
+![RbDKaczqWovIugyJmW](https://github.com/AmanMehta199816/Aman-Mehta-Deep-Learning-/assets/96304523/46a4b071-cffe-47c3-9c6f-97d15413830d)
 
 ### Month 1: Foundations of Deep Learning
 
