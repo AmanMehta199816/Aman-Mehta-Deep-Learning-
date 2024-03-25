@@ -117,6 +117,7 @@ Feel free to contribute to this repository by adding more resources, tutorials, 
 - Websites: Towards Data Science, Papers with Code, arXiv.org for recent research papers.
 
 ### Convolutional Neural Networks (CNNs) By Aman Mehta 
+![MC6eSuC3yypCU](https://github.com/AmanMehta199816/Aman-Mehta-Deep-Learning-/assets/96304523/098086b6-2b5b-42a4-b200-d06b178117ea)
 
 #### Overview
 Convolutional Neural Networks (CNNs) are a class of deep neural networks commonly used for image recognition, classification, and segmentation tasks. They are inspired by the organization of the animal visual cortex, allowing them to efficiently capture spatial hierarchies of features.
