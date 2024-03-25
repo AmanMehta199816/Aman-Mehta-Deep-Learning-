@@ -183,7 +183,7 @@ model.fit(train_images, train_labels, epochs=10, validation_data=(val_images, va
 test_loss, test_acc = model.evaluate(test_images, test_labels)
 print('Test accuracy:', test_acc)
 ```
-### Recurrent Neural Networks (RNNs) By Aman Mehta
+### [Recurrent Neural Networks (RNNs) By Aman Mehta](https://github.com/AmanMehta199816/Aman-Mehta-Deep-Learning-/blob/main/RNN%20By%20Aman%20Mehta.md)
 ![JTJ3gel6umqORZTNMI](https://github.com/AmanMehta199816/Aman-Mehta-Deep-Learning-/assets/96304523/f9db7d7c-011c-4d7d-9f1c-c84e7cb84d82)
 
 
