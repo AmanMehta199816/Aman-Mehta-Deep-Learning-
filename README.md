@@ -52,13 +52,14 @@ Experiment with deep learning models using popular frameworks and libraries:
 
 - [TensorFlow](https://www.tensorflow.org/): An open-source deep learning framework developed by Google for building and training neural networks.
 - [PyTorch](https://pytorch.org/): An open-source deep learning library developed by Facebook's AI Research lab, known for its dynamic computation graphs and ease of use.
-
 ## Courses and Tutorials
 
 Enhance your skills through online courses and tutorials:
 
 - [Fast.ai](https://www.fast.ai/): Offers practical deep learning for coders, including free courses and resources.
 - [Stanford University's CS231n](https://cs231n.stanford.edu/): A popular course on Convolutional Neural Networks for Visual Recognition, with lectures and assignments available online.
+
+![noKPfoiakFXsk](https://github.com/AmanMehta199816/Aman-Mehta-Deep-Learning-/assets/96304523/8817a5a1-ac5b-4f2b-8663-efa52726b533)
 
 ## Community and Forums
 
