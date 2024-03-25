@@ -183,6 +183,62 @@ model.fit(train_images, train_labels, epochs=10, validation_data=(val_images, va
 test_loss, test_acc = model.evaluate(test_images, test_labels)
 print('Test accuracy:', test_acc)
 ```
+### Recurrent Neural Networks (RNNs) By Aman Mehta
+![JTJ3gel6umqORZTNMI](https://github.com/AmanMehta199816/Aman-Mehta-Deep-Learning-/assets/96304523/f9db7d7c-011c-4d7d-9f1c-c84e7cb84d82)
+
+
+#### Overview
+Recurrent Neural Networks (RNNs) are a class of neural networks designed to handle sequential data by maintaining state information across time steps. They have loops within their architecture, allowing them to exhibit temporal dynamic behavior and process sequences of varying lengths.
+
+#### Key Components
+1. **Recurrent Connections**: RNNs have recurrent connections that allow information to persist over time and be passed from one time step to the next.
+2. **Hidden State**: At each time step, the network maintains a hidden state that encapsulates information about the sequence seen so far.
+3. **Activation Functions**: Common activation functions like tanh or ReLU are used to introduce non-linearity into the network.
+4. **Long Short-Term Memory (LSTM)**: An extension of RNNs, LSTMs incorporate memory cells and gating mechanisms to better capture long-range dependencies and mitigate vanishing gradient problems.
+
+#### Training Process
+1. **Forward Pass**: Input sequences are fed into the network one time step at a time, and the hidden states are updated recursively.
+2. **Loss Computation**: A loss function, often cross-entropy or mean squared error, is used to measure the difference between predicted and true values.
+3. **Backpropagation Through Time (BPTT)**: Gradients are computed with respect to the loss across all time steps, and the network parameters are updated using optimization algorithms like SGD or Adam.
+
+#### Applications
+1. **Sequence Prediction**: RNNs can predict the next element in a sequence, making them useful for tasks like language modeling, time series forecasting, and music generation.
+2. **Sequence Classification**: RNNs can classify entire sequences, such as sentiment analysis of text or activity recognition in videos.
+3. **Sequence Generation**: RNNs can generate new sequences by sampling from learned distributions, enabling applications like text generation and image captioning.
+4. **Language Translation**: RNNs, particularly with attention mechanisms, are used in machine translation systems to translate text between different languages.
+
+#### Best Practices
+1. **Gradient Clipping**: To mitigate exploding gradient problems, gradient clipping can be applied to limit the magnitude of gradients during training.
+2. **Vanishing Gradient Problem**: Techniques like LSTM and Gated Recurrent Units (GRUs) address the vanishing gradient problem by introducing memory cells and gating mechanisms.
+3. **Teacher Forcing**: During training, instead of using the model's own predictions as inputs for subsequent time steps, teacher forcing uses ground truth values, improving convergence and stability.
+4. **Bidirectional RNNs**: Bidirectional RNNs process sequences in both forward and backward directions, allowing them to capture dependencies from past and future contexts.
+
+#### Resources
+- Books: "Deep Learning" by Ian Goodfellow, Yoshua Bengio, and Aaron Courville.
+- Courses: Coursera's "Sequence Models" course by Andrew Ng covers RNNs and LSTMs.
+- Frameworks: TensorFlow, PyTorch, and Keras provide comprehensive support for implementing RNNs and LSTMs.
+
+#### Example Code (Python - TensorFlow/Keras)
+```python
+import tensorflow as tf
+from tensorflow.keras import layers, models
+
+# Define RNN model architecture
+model = models.Sequential([
+    layers.SimpleRNN(64, return_sequences=True, input_shape=(None, 100)),
+    layers.SimpleRNN(64),
+    layers.Dense(10, activation='softmax')
+])
+
+# Compile the model
+model.compile(optimizer='adam',
+              loss='sparse_categorical_crossentropy',
+              metrics=['accuracy'])
+
+# Train the model
+model.fit(train_sequences, train_labels, epochs=10, validation_data=(val_sequences, val_labels))
+
+# Evaluate the model
 
 #### Conclusion
 Convolutional Neural Networks have revolutionized the field of computer vision and are essential for various image-related tasks. Understanding their architecture, training process, and best practices is crucial for successfully applying CNNs in real-world projects.
