@@ -82,10 +82,10 @@ Feel free to contribute to this repository by adding more resources, tutorials, 
    - Explore deep learning frameworks: TensorFlow or PyTorch.
    - Implement a simple feedforward neural network.
 
-2. **Week 3-4: Convolutional Neural Networks (CNNs)**
-   - Learn about CNN architecture: convolutional layers, pooling layers.
-   - Implement a CNN for image classification using a popular dataset like MNIST or CIFAR-10.
-   - Experiment with different CNN architectures and hyperparameters.
+2. [**Week 3-4: Convolutional Neural Networks (CNNs)**](https://github.com/AmanMehta199816/Aman-Mehta-Deep-Learning-/blob/main/CNN%20Implementation%20By%20Aman.md)
+   - Learn about [CNN](https://github.com/AmanMehta199816/Aman-Mehta-Deep-Learning-/blob/main/CNN%20Implementation%20By%20Aman.md) architecture: convolutional layers, pooling layers.
+   - Implement a [CNN](https://github.com/AmanMehta199816/Aman-Mehta-Deep-Learning-/blob/main/CNN%20Implementation%20By%20Aman.md) for image classification using a popular dataset like MNIST or CIFAR-10.
+   - Experiment with different [CNN](https://github.com/AmanMehta199816/Aman-Mehta-Deep-Learning-/blob/main/CNN%20Implementation%20By%20Aman.md) architectures and hyperparameters.
 
 ### Month 2: Intermediate Deep Learning Concepts
 
@@ -117,7 +117,7 @@ Feel free to contribute to this repository by adding more resources, tutorials, 
 - Books: "Deep Learning" by Ian Goodfellow, Yoshua Bengio, and Aaron Courville.
 - Websites: Towards Data Science, Papers with Code, arXiv.org for recent research papers.
 
-### Convolutional Neural Networks (CNNs) By Aman Mehta 
+### [Convolutional Neural Networks (CNNs) By Aman Mehta](https://github.com/AmanMehta199816/Aman-Mehta-Deep-Learning-/blob/main/CNN%20Implementation%20By%20Aman.md) 
 ![MC6eSuC3yypCU](https://github.com/AmanMehta199816/Aman-Mehta-Deep-Learning-/assets/96304523/098086b6-2b5b-42a4-b200-d06b178117ea)
 
 #### Overview
