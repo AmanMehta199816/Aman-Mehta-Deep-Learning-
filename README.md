@@ -59,7 +59,8 @@ Enhance your skills through online courses and tutorials:
 - [Fast.ai](https://www.fast.ai/): Offers practical deep learning for coders, including free courses and resources.
 - [Stanford University's CS231n](https://cs231n.stanford.edu/): A popular course on Convolutional Neural Networks for Visual Recognition, with lectures and assignments available online.
 
-![noKPfoiakFXsk](https://github.com/AmanMehta199816/Aman-Mehta-Deep-Learning-/assets/96304523/8817a5a1-ac5b-4f2b-8663-efa52726b533)
+![hrdX1BsUBq7DkGJCCd](https://github.com/AmanMehta199816/Aman-Mehta-Deep-Learning-/assets/96304523/94f53fb5-1089-45a6-9088-f909f663d62d)
+
 
 ## Community and Forums
 
