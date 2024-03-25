@@ -89,7 +89,7 @@ Feel free to contribute to this repository by adding more resources, tutorials, 
 
 ### Month 2: Intermediate Deep Learning Concepts
 
-3. **Week 5-6: Recurrent Neural Networks (RNNs) and LSTMs**
+3. [**Week 5-6: Recurrent Neural Networks (RNNs) and LSTMs**](https://github.com/AmanMehta199816/Aman-Mehta-Deep-Learning-/blob/main/RNN%20By%20Aman%20Mehta.md)
    - Understand sequential data processing with RNNs and LSTMs.
    - Implement an RNN for time series prediction or text generation tasks.
    - Experiment with different RNN variants and optimization techniques.
