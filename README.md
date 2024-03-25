@@ -121,7 +121,7 @@ Feel free to contribute to this repository by adding more resources, tutorials, 
 ![MC6eSuC3yypCU](https://github.com/AmanMehta199816/Aman-Mehta-Deep-Learning-/assets/96304523/098086b6-2b5b-42a4-b200-d06b178117ea)
 
 #### Overview
-Convolutional Neural Networks (CNNs) are a class of deep neural networks commonly used for image recognition, classification, and segmentation tasks. They are inspired by the organization of the animal visual cortex, allowing them to efficiently capture spatial hierarchies of features.
+[Convolutional Neural Networks (CNNs)](https://github.com/AmanMehta199816/Aman-Mehta-Deep-Learning-/blob/main/CNN%20Implementation%20By%20Aman.md) are a class of deep neural networks commonly used for image recognition, classification, and segmentation tasks. They are inspired by the organization of the animal visual cortex, allowing them to efficiently capture spatial hierarchies of features.
 
 #### Key Components
 1. **Convolutional Layers**: These layers apply convolution operations to input images, extracting local features through filters or kernels.
@@ -135,15 +135,15 @@ Convolutional Neural Networks (CNNs) are a class of deep neural networks commonl
 3. **Backpropagation**: Gradients are computed with respect to the loss, and the network parameters are updated using optimization algorithms like SGD or Adam.
 
 #### Applications
-1. **Image Classification**: CNNs excel at classifying images into predefined categories, such as identifying objects in photographs.
-2. **Object Detection**: CNNs can be used for detecting and localizing objects within images, often in conjunction with techniques like region proposal networks.
-3. **Semantic Segmentation**: CNNs can assign semantic labels to each pixel in an image, enabling tasks like image segmentation and scene understanding.
-4. **Face Recognition**: CNNs have been successful in recognizing faces and performing facial attribute analysis in applications like security and biometrics.
+1. **Image Classification**: [CNNs](https://github.com/AmanMehta199816/Aman-Mehta-Deep-Learning-/blob/main/CNN%20Implementation%20By%20Aman.md) excel at classifying images into predefined categories, such as identifying objects in photographs.
+2. **Object Detection**: [CNNs](https://github.com/AmanMehta199816/Aman-Mehta-Deep-Learning-/blob/main/CNN%20Implementation%20By%20Aman.md) can be used for detecting and localizing objects within images, often in conjunction with techniques like region proposal networks.
+3. **Semantic Segmentation**: [CNNs](https://github.com/AmanMehta199816/Aman-Mehta-Deep-Learning-/blob/main/CNN%20Implementation%20By%20Aman.md) can assign semantic labels to each pixel in an image, enabling tasks like image segmentation and scene understanding.
+4. **Face Recognition**: [CNNs](https://github.com/AmanMehta199816/Aman-Mehta-Deep-Learning-/blob/main/CNN%20Implementation%20By%20Aman.md) have been successful in recognizing faces and performing facial attribute analysis in applications like security and biometrics.
 
 #### Best Practices
-1. **Transfer Learning**: Leveraging pre-trained CNN models and fine-tuning them on specific tasks can significantly reduce training time and improve performance.
+1. **Transfer Learning**: Leveraging pre-trained [CNN](https://github.com/AmanMehta199816/Aman-Mehta-Deep-Learning-/blob/main/CNN%20Implementation%20By%20Aman.md) models and fine-tuning them on specific tasks can significantly reduce training time and improve performance.
 2. **Data Augmentation**: Augmenting training data with transformations like rotation, flipping, and cropping helps prevent overfitting and improves generalization.
-3. **Regularization**: Techniques like dropout and weight decay can be used to prevent overfitting and improve the generalization ability of CNNs.
+3. **Regularization**: Techniques like dropout and weight decay can be used to prevent overfitting and improve the generalization ability of [CNNs](https://github.com/AmanMehta199816/Aman-Mehta-Deep-Learning-/blob/main/CNN%20Implementation%20By%20Aman.md).
 4. **Model Evaluation**: Use appropriate evaluation metrics such as accuracy, precision, recall, and F1-score to assess the performance of CNN models on validation and test datasets.
 
 #### Resources
@@ -203,7 +203,7 @@ print('Test accuracy:', test_acc)
 
 #### Applications
 1. **Sequence Prediction**: [RNNs](https://github.com/AmanMehta199816/Aman-Mehta-Deep-Learning-/blob/main/RNN%20By%20Aman%20Mehta.md) can predict the next element in a sequence, making them useful for tasks like language modeling, time series forecasting, and music generation.
-2. **Sequence Classification**: RNNs can classify entire sequences, such as sentiment analysis of text or activity recognition in videos.
+2. **Sequence Classification**: [RNNs](https://github.com/AmanMehta199816/Aman-Mehta-Deep-Learning-/blob/main/RNN%20By%20Aman%20Mehta.md) can classify entire sequences, such as sentiment analysis of text or activity recognition in videos.
 3. **Sequence Generation**: [RNNs](https://github.com/AmanMehta199816/Aman-Mehta-Deep-Learning-/blob/main/RNN%20By%20Aman%20Mehta.md) can generate new sequences by sampling from learned distributions, enabling applications like text generation and image captioning.
 4. **Language Translation**: [RNNs](https://github.com/AmanMehta199816/Aman-Mehta-Deep-Learning-/blob/main/RNN%20By%20Aman%20Mehta.md), particularly with attention mechanisms, are used in machine translation systems to translate text between different languages.
 
