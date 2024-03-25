@@ -1,5 +1,5 @@
 ## CNN Implementation & Explanation By Aman Mehta 
-Explain the implementation of CNN. Python code file demonstrating the implementation of a basic Convolutional Neural Network (CNN) for image classification using TensorFlow and Keras. This code provides an explanation for each step of the CNN implementation.
+Explanation of the implementation of CNN. Python code file demonstrating the implementation of a basic Convolutional Neural Network (CNN) for image classification using TensorFlow and Keras. This code provides an explanation for each step of the CNN implementation.
 
 ```python
 # Importing necessary libraries
