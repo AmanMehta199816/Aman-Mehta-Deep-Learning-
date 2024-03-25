@@ -90,8 +90,8 @@ Feel free to contribute to this repository by adding more resources, tutorials, 
 ### Month 2: Intermediate Deep Learning Concepts
 
 3. [**Week 5-6: Recurrent Neural Networks (RNNs) and LSTMs**](https://github.com/AmanMehta199816/Aman-Mehta-Deep-Learning-/blob/main/RNN%20By%20Aman%20Mehta.md)
-   - Understand sequential data processing with RNNs and LSTMs.
-   - Implement an RNN for time series prediction or text generation tasks.
+   - Understand sequential data processing with [RNNs](https://github.com/AmanMehta199816/Aman-Mehta-Deep-Learning-/blob/main/RNN%20By%20Aman%20Mehta.md) and LSTMs.
+   - Implement an [RNN](https://github.com/AmanMehta199816/Aman-Mehta-Deep-Learning-/blob/main/RNN%20By%20Aman%20Mehta.md) for time series prediction or text generation tasks.
    - Experiment with different RNN variants and optimization techniques.
 
 4. **Week 7-8: Advanced Topics in Deep Learning**
@@ -188,10 +188,10 @@ print('Test accuracy:', test_acc)
 
 
 #### Overview
-Recurrent Neural Networks (RNNs) are a class of neural networks designed to handle sequential data by maintaining state information across time steps. They have loops within their architecture, allowing them to exhibit temporal dynamic behavior and process sequences of varying lengths.
+[Recurrent Neural Networks (RNNs)](https://github.com/AmanMehta199816/Aman-Mehta-Deep-Learning-/blob/main/RNN%20By%20Aman%20Mehta.md) are a class of neural networks designed to handle sequential data by maintaining state information across time steps. They have loops within their architecture, allowing them to exhibit temporal dynamic behavior and process sequences of varying lengths.
 
 #### Key Components
-1. **Recurrent Connections**: RNNs have recurrent connections that allow information to persist over time and be passed from one time step to the next.
+1. **Recurrent Connections**: [RNNs](https://github.com/AmanMehta199816/Aman-Mehta-Deep-Learning-/blob/main/RNN%20By%20Aman%20Mehta.md) have recurrent connections that allow information to persist over time and be passed from one time step to the next.
 2. **Hidden State**: At each time step, the network maintains a hidden state that encapsulates information about the sequence seen so far.
 3. **Activation Functions**: Common activation functions like tanh or ReLU are used to introduce non-linearity into the network.
 4. **Long Short-Term Memory (LSTM)**: An extension of RNNs, LSTMs incorporate memory cells and gating mechanisms to better capture long-range dependencies and mitigate vanishing gradient problems.
@@ -202,10 +202,10 @@ Recurrent Neural Networks (RNNs) are a class of neural networks designed to hand
 3. **Backpropagation Through Time (BPTT)**: Gradients are computed with respect to the loss across all time steps, and the network parameters are updated using optimization algorithms like SGD or Adam.
 
 #### Applications
-1. **Sequence Prediction**: RNNs can predict the next element in a sequence, making them useful for tasks like language modeling, time series forecasting, and music generation.
+1. **Sequence Prediction**: [RNNs](https://github.com/AmanMehta199816/Aman-Mehta-Deep-Learning-/blob/main/RNN%20By%20Aman%20Mehta.md) can predict the next element in a sequence, making them useful for tasks like language modeling, time series forecasting, and music generation.
 2. **Sequence Classification**: RNNs can classify entire sequences, such as sentiment analysis of text or activity recognition in videos.
-3. **Sequence Generation**: RNNs can generate new sequences by sampling from learned distributions, enabling applications like text generation and image captioning.
-4. **Language Translation**: RNNs, particularly with attention mechanisms, are used in machine translation systems to translate text between different languages.
+3. **Sequence Generation**: [RNNs](https://github.com/AmanMehta199816/Aman-Mehta-Deep-Learning-/blob/main/RNN%20By%20Aman%20Mehta.md) can generate new sequences by sampling from learned distributions, enabling applications like text generation and image captioning.
+4. **Language Translation**: [RNNs](https://github.com/AmanMehta199816/Aman-Mehta-Deep-Learning-/blob/main/RNN%20By%20Aman%20Mehta.md), particularly with attention mechanisms, are used in machine translation systems to translate text between different languages.
 
 #### Best Practices
 1. **Gradient Clipping**: To mitigate exploding gradient problems, gradient clipping can be applied to limit the magnitude of gradients during training.
