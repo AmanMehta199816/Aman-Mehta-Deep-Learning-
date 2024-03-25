@@ -92,7 +92,7 @@ Feel free to contribute to this repository by adding more resources, tutorials, 
 3. [**Week 5-6: Recurrent Neural Networks (RNNs) and LSTMs**](https://github.com/AmanMehta199816/Aman-Mehta-Deep-Learning-/blob/main/RNN%20By%20Aman%20Mehta.md)
    - Understand sequential data processing with [RNNs](https://github.com/AmanMehta199816/Aman-Mehta-Deep-Learning-/blob/main/RNN%20By%20Aman%20Mehta.md) and LSTMs.
    - Implement an [RNN](https://github.com/AmanMehta199816/Aman-Mehta-Deep-Learning-/blob/main/RNN%20By%20Aman%20Mehta.md) for time series prediction or text generation tasks.
-   - Experiment with different RNN variants and optimization techniques.
+   - Experiment with different [RNN](https://github.com/AmanMehta199816/Aman-Mehta-Deep-Learning-/blob/main/RNN%20By%20Aman%20Mehta.md) variants and optimization techniques.
 
 4. **Week 7-8: Advanced Topics in Deep Learning**
    - Dive into advanced concepts like transfer learning, attention mechanisms, and self-supervised learning.
